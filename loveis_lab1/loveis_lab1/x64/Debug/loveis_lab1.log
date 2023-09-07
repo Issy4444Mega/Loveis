@@ -1,0 +1,4 @@
+﻿  loveis_lab1.cpp
+D:\Laboratorny\Loveis\loveis_lab1\loveis_lab1\loveis_lab1.cpp(183,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+loveis_lab1.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+  loveis_lab1.vcxproj -> D:\Laboratorny\Loveis\loveis_lab1\x64\Debug\loveis_lab1.exe
